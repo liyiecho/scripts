@@ -1,0 +1,206 @@
+{
+  "id": "thinking.app.sub",
+  "name": "thinking应用订阅",
+  "author": "@thinking",
+  "icon": "https://avatars0.githubusercontent.com/u/5213722",
+  "repo": "https://github.com/liyiecho/scripts",
+    "apps": [
+      {
+        "id": "txnews2",
+        "name": "腾讯新闻",
+        "keys": ["sy_signurl_txnews2", "sy_cookie_txnews2", "video_txnews2"],
+        "author": "@Nzw9314",
+        "repo": "https://github.com/nzw9314/QuantumultX/blob/master/Task/txnews2.js",
+        "icons": [
+            "https://raw.githubusercontent.com/Orz-3/task/master/txnews.png",
+            "https://raw.githubusercontent.com/Orz-3/task/master/txnews.png"
+        ]
+      },
+      {
+      "id": "jd_fruit",
+      "name": "京东农场",
+      "keys": [
+        "CookieJD",
+        "jd_fruit_name",
+        "jd_fruit1",
+        "jd_fruit2",
+        "jd_fruit3",
+        "jd_fruit4"
+      ],
+      "settings": [
+        {
+          "id": "CookieJD",
+          "name": "CookieJD",
+          "val": "",
+          "type": "text",
+          "desc": "使用NobyDa的京东cookie。"
+        },
+        {
+          "id": "jd_fruit_name",
+          "name": "京东账号昵称",
+          "val": "",
+          "type": "text",
+          "desc": "这里可以填你自己京东账号昵称,用于区分账号"
+        },
+        {
+          "id": "jd_fruit1",
+          "name": "互助码1",
+          "val": "",
+          "type": "text",
+          "desc": "京东水果互助码.这是别人的shareCode,你帮别人助力."
+        },
+        {
+          "id": "jd_fruit2",
+          "name": "互助码2",
+          "val": "",
+          "type": "text",
+          "desc": "京东水果互助码."
+        },
+        {
+          "id": "jd_fruit3",
+          "name": "互助码3",
+          "val": "",
+          "type": "text",
+          "desc": "京东水果互助码.这是别人的shareCode,你帮别人助力."
+        },
+        {
+          "id": "jd_fruit4",
+          "name": "互助码4",
+          "val": "",
+          "type": "text",
+          "desc": "京东水果互助码.这是别人的shareCode,你帮别人助力."
+        }
+      ],
+      "author": "@thinking",
+      "repo": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/README.md",
+      "icons": [
+        "https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
+        "https://raw.githubusercontent.com/Orz-3/task/master/jd.png"
+      ]
+    },
+    {
+      "id": "jd_pet",
+      "name": "京东萌宠",
+      "keys": [
+        "CookieJD",
+        "jd_pet_name",
+        "jd_pet1",
+        "jd_pet2",
+        "jd_pet3",
+        "jd_pet4",
+        "jd_pet5"
+      ],
+      "settings": [
+        {
+          "id": "CookieJD",
+          "name": "CookieJD",
+          "val": "",
+          "type": "text",
+          "desc": "使用NobyDa的京东cookie。"
+        },
+        {
+          "id": "jd_pet_name",
+          "name": "京东账号昵称",
+          "val": "",
+          "type": "text",
+          "desc": "这里可以填你自己京东账号昵称,用于区分账号"
+        },
+        {
+          "id": "jd_pet1",
+          "name": "互助码1",
+          "val": "",
+          "type": "text",
+          "desc": "东东萌宠互助码.这是别人的shareCode,你帮别人助力."
+        },
+        {
+          "id": "jd_pet2",
+          "name": "互助码2",
+          "val": "",
+          "type": "text",
+          "desc": "东东萌宠互助码.这是别人的shareCode,你帮别人助力."
+        },
+        {
+          "id": "jd_pet3",
+          "name": "互助码3",
+          "val": "",
+          "type": "text",
+          "desc": "东东萌宠互助码.这是别人的shareCode,你帮别人助力."
+        },
+        {
+          "id": "jd_pet4",
+          "name": "互助码4",
+          "val": "",
+          "type": "text",
+          "desc": "东东萌宠互助码.这是别人的shareCode,你帮别人助力."
+        },
+        {
+          "id": "jd_pet5",
+          "name": "互助码5",
+          "val": "",
+          "type": "text",
+          "desc": "东东萌宠互助码.这是别人的shareCode,你帮别人助力."
+        }
+      ],
+      "author": "@thinking",
+      "repo": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/README.md",
+      "icons": [
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdmc.png",
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdmc.png"
+      ]
+    },
+    {
+      "id": "jd_plantBean",
+      "name": "京东种豆",
+      "keys": [
+        "CookieJD",
+        "jd_plant_bean_name",
+        "jd_plantBean1",
+        "jd_plantBean2",
+        "jd_plantBean3"
+      ],
+      "settings": [
+        {
+          "id": "CookieJD",
+          "name": "CookieJD",
+          "val": "",
+          "type": "text",
+          "desc": "使用NobyDa的京东cookie。"
+        },
+        {
+          "id": "jd_plant_bean_name",
+          "name": "京东账号昵称",
+          "val": "",
+          "type": "text",
+          "desc": "这里可以填你自己京东账号昵称,用于区分账号"
+        },
+        {
+          "id": "jd_plantBean1",
+          "name": "互助码1",
+          "val": "",
+          "type": "text",
+          "desc": "种豆得豆互助码.这是别人的助力码,你帮别人助力."
+        },
+        {
+          "id": "jd_plantBean2",
+          "name": "互助码2",
+          "val": "",
+          "type": "text",
+          "desc": "种豆得豆互助码.这是别人的助力码,你帮别人助力."
+        },
+        {
+          "id": "jd_plantBean3",
+          "name": "互助码3",
+          "val": "",
+          "type": "text",
+          "desc": "种豆得豆互助码.这是别人的助力码,你帮别人助力."
+        }
+      ],
+      "author": "@thinking",
+      "repo": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/README.md",
+      "icons": [
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdzd.png",
+        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdzd.png"
+      ]
+    }
+    ]
+  }
