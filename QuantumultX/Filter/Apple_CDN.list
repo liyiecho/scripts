@@ -1,0 +1,17 @@
+# > Apple CDN
+# - PROCESS-NAME,storedownloadd,Apple CDN
+# - USER-AGENT,com.apple.appstored*,Apple CDN
+DOMAIN,aod.itunes.apple.com,Apple CDN
+DOMAIN,api.smoot.apple.cn,Apple CDN
+DOMAIN,appldnld.apple.com,Apple CDN
+DOMAIN,apptrailers.itunes.apple.com,Apple CDN
+DOMAIN,gs-loc-cn.apple.com,Apple CDN
+DOMAIN,iosapps.itunes.apple.com,Apple CDN
+DOMAIN,music.apple.com,Apple CDN
+DOMAIN,mvod.itunes.apple.com,Apple CDN
+DOMAIN,osxapps.itunes.apple.com,Apple CDN
+DOMAIN,supportdownload.apple.com,Apple CDN
+DOMAIN,swcdn.apple.com,Apple CDN
+DOMAIN,updates-http.cdn-apple.com,Apple CDN
+DOMAIN-SUFFIX,ls.apple.com,Apple CDN
+DOMAIN-SUFFIX,mzstatic.com,Apple CDN

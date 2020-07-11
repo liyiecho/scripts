@@ -1,0 +1,24 @@
+# > Apple API
+DOMAIN-SUFFIX,aaplimg.com,Apple API
+DOMAIN-SUFFIX,apple.co,Apple API
+DOMAIN-SUFFIX,apple.com,Apple API
+DOMAIN-SUFFIX,apple-cloudkit.com,Apple API
+DOMAIN-SUFFIX,appsto.re,Apple API
+DOMAIN-SUFFIX,cdn-apple.com,Apple API
+DOMAIN-SUFFIX,icloud.com,Apple API
+DOMAIN-SUFFIX,icloud-content.com,Apple API
+DOMAIN-SUFFIX,itunes.com,Apple API
+DOMAIN-SUFFIX,me.com,Apple API
+IP-CIDR,17.0.0.0/8,Apple API
+IP-CIDR,63.92.224.0/19,Apple API
+IP-CIDR,65.199.22.0/23,Apple API
+IP-CIDR,139.178.128.0/18,Apple API
+IP-CIDR,144.178.0.0/19,Apple API
+IP-CIDR,144.178.36.0/22,Apple API
+IP-CIDR,144.178.48.0/20,Apple API
+IP-CIDR,192.35.50.0/24,Apple API
+IP-CIDR,198.183.17.0/24,Apple API
+IP-CIDR,205.180.175.0/24,Apple API
+
+# > Apple News
+DOMAIN-SUFFIX,apple.news,Apple API
