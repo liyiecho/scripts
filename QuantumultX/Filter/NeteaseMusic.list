@@ -1,9 +1,11 @@
 # > Netease Music
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,Netease Music
+USER-AGENT,NeteaseMusic*,Netease Music
 DOMAIN,apm.music.163.com,Netease Music
 DOMAIN,apm3.music.163.com,Netease Music
 DOMAIN,interface.music.163.com,Netease Music
 DOMAIN,interface3.music.163.com,Netease Music
-DOMAIN,music.126.com,Netease Music
+DOMAIN,music.126.net,Netease Music
 DOMAIN,music.163.com,Netease Music
 IP-CIDR,101.71.154.241/32,Netease Music
 IP-CIDR,103.126.92.132/32,Netease Music
