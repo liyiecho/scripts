@@ -1,19 +1,67 @@
+# > Dler Cloud
+DOMAIN-SUFFIX,dler.cloud,Domestic
+# > Google
+DOMAIN-KEYWORD,mtalk.google.com,Domestic
+DOMAIN,safebrowsing.googleapis.com,Domestic
+DOMAIN-SUFFIX,dl.google.com,Domestic
+# > Steam
+# - USER-AGENT,Steam*,Domestic
+DOMAIN-SUFFIX,pinyuncloud.com,Domestic
+DOMAIN-SUFFIX,steamcontent.com,Domestic
+# > Windows
+DOMAIN-SUFFIX,windows.com,Domestic
+DOMAIN-SUFFIX,windows.net,Domestic
+DOMAIN-SUFFIX,windowsupdate.com,Domestic
+# > Xunlei
+# - PROCESS-NAME,Thunder,Domestic
+# - USER-AGENT,%E8%BF%85%E9%9B%B7,Domestic
+DOMAIN-SUFFIX,xunlei.com,Domestic
+# > Private Tracker
+DOMAIN-SUFFIX,awesome-hd.me,Domestic
+DOMAIN-SUFFIX,broadcasthe.net,Domestic
+DOMAIN-SUFFIX,chdbits.co,Domestic
+DOMAIN-SUFFIX,classix-unlimited.co.uk,Domestic
+DOMAIN-SUFFIX,empornium.me,Domestic
+DOMAIN-SUFFIX,gazellegames.net,Domestic
+DOMAIN-SUFFIX,hdchina.org,Domestic
+DOMAIN-SUFFIX,hdsky.me,Domestic
+DOMAIN-SUFFIX,icetorrent.org,Domestic
+DOMAIN-SUFFIX,jpopsuki.eu,Domestic
+DOMAIN-SUFFIX,keepfrds.com,Domestic
+DOMAIN-SUFFIX,madsrevolution.net,Domestic
+DOMAIN-SUFFIX,m-team.cc,Domestic
+DOMAIN-SUFFIX,nanyangpt.com,Domestic
+DOMAIN-SUFFIX,ncore.cc,Domestic
+DOMAIN-SUFFIX,open.cd,Domestic
+DOMAIN-SUFFIX,ourbits.club,Domestic
+DOMAIN-SUFFIX,passthepopcorn.me,Domestic
+DOMAIN-SUFFIX,privatehd.to,Domestic
+DOMAIN-SUFFIX,redacted.ch,Domestic
+DOMAIN-SUFFIX,springsunday.net,Domestic
+DOMAIN-SUFFIX,tjupt.org,Domestic
+DOMAIN-SUFFIX,totheglory.im,Domestic
+# > Accelerate direct sites
+DOMAIN-KEYWORD,announce,Domestic
+DOMAIN-KEYWORD,torrent,Domestic
+DOMAIN-KEYWORD,tracker,Domestic
+DOMAIN-SUFFIX,smtp,Domestic
+# - URL-REGEX,(Subject|HELO|SMTP),Domestic
+# - URL-REGEX,(api|ps|sv|offnavi|newvector|ulog\.imap|newloc)(\.map|)\.(baidu|n\.shifen)\.com,Domestic
+# - URL-REGEX,(.+\.|^)(360|so|qihoo|360safe|qhimg|360totalsecurity|yunpan)\.(cn|com),Domestic
+# - URL-REGEX,(.+\.)?(torrent|announce\.php\?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=|sandai|Thunder|XLLiveUD|xunlei)(\..+)?,Domestic
 # > Beplay
 DOMAIN-KEYWORD,beplay,Domestic
-
 # > Blizzard
 # - USER-AGENT,hearthstone*,Domestic
 DOMAIN,cdp.cloud.unity3d.com,Domestic
 DOMAIN-SUFFIX,battle.net,Domestic
 DOMAIN-SUFFIX,battlenet.com,Domestic
 DOMAIN-SUFFIX,blizzard.com,Domestic
-
 # > Prior
 DOMAIN,client.amplifi.com,Domestic
 DOMAIN,ip.bjango.com,Domestic
 DOMAIN-SUFFIX,alphassl.com,Domestic
 DOMAIN-SUFFIX,edu.cn,Domestic
-
 # > TeamViewer
 IP-CIDR,185.188.32.0/24,Domestic
 IP-CIDR,185.188.33.0/24,Domestic
@@ -23,10 +71,8 @@ IP6-CIDR,2a0b:b580::/48,Domestic
 IP6-CIDR,2a0b:b581::/48,Domestic
 IP6-CIDR,2a0b:b582::/48,Domestic
 IP6-CIDR,2a0b:b583::/48,Domestic
-
 # > Tencent
 IP-CIDR,182.254.116.0/24,Domestic
-
 DOMAIN-SUFFIX,12306.cn,Domestic
 DOMAIN-SUFFIX,12306.com,Domestic
 DOMAIN-SUFFIX,126.net,Domestic
@@ -270,8 +316,23 @@ DOMAIN-SUFFIX,zhihu.com,Domestic
 DOMAIN-SUFFIX,zhimg.com,Domestic
 DOMAIN-SUFFIX,zimuzu.tv,Domestic
 DOMAIN-SUFFIX,zmz002.com,Domestic
-
 IP-CIDR,1.255.62.0/24,Domestic
-
 # > CN
 DOMAIN-SUFFIX,cn,Domestic
+# > Apple CDN
+# - PROCESS-NAME,storedownloadd,Domestic
+# - USER-AGENT,com.apple.appstored*,Domestic
+DOMAIN,aod.itunes.apple.com,Domestic
+DOMAIN,api.smoot.apple.cn,Domestic
+DOMAIN,appldnld.apple.com,Domestic
+DOMAIN,apptrailers.itunes.apple.com,Domestic
+DOMAIN,gs-loc-cn.apple.com,Domestic
+DOMAIN,iosapps.itunes.apple.com,Domestic
+DOMAIN,music.apple.com,Domestic
+DOMAIN,mvod.itunes.apple.com,Domestic
+DOMAIN,osxapps.itunes.apple.com,Domestic
+DOMAIN,supportdownload.apple.com,Domestic
+DOMAIN,swcdn.apple.com,Domestic
+DOMAIN,updates-http.cdn-apple.com,Domestic
+DOMAIN-SUFFIX,ls.apple.com,Domestic
+DOMAIN-SUFFIX,mzstatic.com,Domestic
