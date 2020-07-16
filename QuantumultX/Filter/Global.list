@@ -18,11 +18,11 @@ DOMAIN-SUFFIX,app.smartmailcloud.com,Global
 DOMAIN-SUFFIX,gate.hockeyapp.net,Global
 DOMAIN-SUFFIX,smartmailcloud.com,Global
 # > Steam
-DOMAIN-SUFFIX,fanatical.com,Steam
-DOMAIN-SUFFIX,humblebundle.com,Steam
-DOMAIN-SUFFIX,steamcommunity.com,Steam
-DOMAIN-SUFFIX,steampowered.com,Steam
-DOMAIN-SUFFIX,steamstatic.com,Steam
+DOMAIN-SUFFIX,fanatical.com,Global
+DOMAIN-SUFFIX,humblebundle.com,Global
+DOMAIN-SUFFIX,steamcommunity.com,Global
+DOMAIN-SUFFIX,steampowered.com,Global
+DOMAIN-SUFFIX,steamstatic.com,Global
 # > Top blocked sites
 DOMAIN-SUFFIX,2o7.net,Global
 DOMAIN-SUFFIX,4everProxy.com,Global
@@ -228,7 +228,7 @@ DOMAIN-SUFFIX,gunsamerica.com,Global
 DOMAIN-SUFFIX,gvt0.com,Global
 DOMAIN-SUFFIX,gvt1.com,Global
 DOMAIN-SUFFIX,helpshift.com,Global
-DOMAIN-SUFFIX,hinet.net,Global
+DOMAIN-SUFFIX,hitun.io,Global
 DOMAIN-SUFFIX,hockeyapp.net,Global
 DOMAIN-SUFFIX,homedepot.com,Global
 DOMAIN-SUFFIX,hootsuite.com,Global
