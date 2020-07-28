@@ -161,18 +161,6 @@ DOMAIN-SUFFIX,nowe.com,GlobalMedia
 DOMAIN-SUFFIX,viu.com,GlobalMedia
 DOMAIN-SUFFIX,viu.tv,GlobalMedia
 DOMAIN-SUFFIX,viu.now.com,GlobalMedia
-# > Youtube Music
-# - USER-AGENT,*YouTubeMusic*,GlobalMedia
-# - USER-AGENT,*com.google.ios.youtubemusic*,GlobalMedia
-# > Youtube
-# - USER-AGENT,*youtube*,GlobalMedia
-# - USER-AGENT,YouTube*,GlobalMedia
-DOMAIN-KEYWORD,youtube,GlobalMedia
-DOMAIN,yt3.ggpht.com,GlobalMedia
-DOMAIN-SUFFIX,googlevideo.com,GlobalMedia
-DOMAIN-SUFFIX,gvt2.com,GlobalMedia
-DOMAIN-SUFFIX,youtu.be,GlobalMedia
-DOMAIN-SUFFIX,ytimg.com,GlobalMedia
 # > Netflix
 # - USER-AGENT,Argo*,GlobalMedia
 DOMAIN,netflix.com.edgesuite.net,GlobalMedia
@@ -1061,6 +1049,18 @@ DOMAIN-SUFFIX,scdn.co,GlobalMedia
 DOMAIN-SUFFIX,spoti.fi,GlobalMedia
 DOMAIN-SUFFIX,spotify.com,GlobalMedia
 DOMAIN-SUFFIX,spotifycdn.net,GlobalMedia
+# > Youtube Music
+# - USER-AGENT,*YouTubeMusic*,GlobalMedia
+# - USER-AGENT,*com.google.ios.youtubemusic*,GlobalMedia
+# > Youtube
+# - USER-AGENT,*youtube*,GlobalMedia
+# - USER-AGENT,YouTube*,GlobalMedia
+DOMAIN-KEYWORD,youtube,GlobalMedia
+DOMAIN,yt3.ggpht.com,GlobalMedia
+DOMAIN-SUFFIX,googlevideo.com,GlobalMedia
+DOMAIN-SUFFIX,gvt2.com,GlobalMedia
+DOMAIN-SUFFIX,youtu.be,GlobalMedia
+DOMAIN-SUFFIX,ytimg.com,GlobalMedia
 # > Telegram
 DOMAIN-SUFFIX,t.me,GlobalMedia
 DOMAIN-SUFFIX,tdesktop.com,GlobalMedia
