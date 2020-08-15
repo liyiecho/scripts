@@ -5,9 +5,9 @@ DOMAIN-KEYWORD,mtalk.google.com,Domestic
 DOMAIN,safebrowsing.googleapis.com,Domestic
 DOMAIN-SUFFIX,dl.google.com,Domestic
 # > Microsoft
-- DOMAIN-SUFFIX,msftconnecttest.com,Domestic
+DOMAIN-SUFFIX,msftconnecttest.com,Domestic
 # > Mugglepay
-- DOMAIN-SUFFIX,invoice.mugglepay.com,Domestic
+DOMAIN-SUFFIX,invoice.mugglepay.com,Domestic
 # > Steam
 # - USER-AGENT,Steam*,Domestic
 DOMAIN-SUFFIX,pinyuncloud.com,Domestic
