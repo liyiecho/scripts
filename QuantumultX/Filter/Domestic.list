@@ -1,9 +1,9 @@
 # > Dler Cloud
 DOMAIN-SUFFIX,dler.cloud,Domestic
 # > Google
-DOMAIN-KEYWORD,mtalk.google.com,Domestic
 DOMAIN,safebrowsing.googleapis.com,Domestic
 DOMAIN-SUFFIX,dl.google.com,Domestic
+DOMAIN-SUFFIX,mtalk.google.com,Domestic
 # > Microsoft
 DOMAIN-SUFFIX,msftconnecttest.com,Domestic
 # > Mugglepay
@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,invoice.mugglepay.com,Domestic
 # - USER-AGENT,Steam*,Domestic
 DOMAIN-SUFFIX,pinyuncloud.com,Domestic
 DOMAIN-SUFFIX,steamcontent.com,Domestic
+# > Tesla
+DOMAIN-SUFFIX,tesla.cn,Domestic
+DOMAIN-SUFFIX,tesla-cdn.thron.cn,Domestic
 # > Windows
 DOMAIN-SUFFIX,windows.com,Domestic
 DOMAIN-SUFFIX,windows.net,Domestic
@@ -323,22 +326,9 @@ DOMAIN-SUFFIX,zhimg.com,Domestic
 DOMAIN-SUFFIX,zimuzu.tv,Domestic
 DOMAIN-SUFFIX,zmz002.com,Domestic
 IP-CIDR,1.255.62.0/24,Domestic
-# > CN
 DOMAIN-SUFFIX,cn,Domestic
-# > Apple CDN
-# - PROCESS-NAME,storedownloadd,Domestic
-# - USER-AGENT,com.apple.appstored*,Domestic
-DOMAIN,aod.itunes.apple.com,Domestic
-DOMAIN,api.smoot.apple.cn,Domestic
-DOMAIN,appldnld.apple.com,Domestic
-DOMAIN,apptrailers.itunes.apple.com,Domestic
-DOMAIN,gs-loc-cn.apple.com,Domestic
-DOMAIN,iosapps.itunes.apple.com,Domestic
-DOMAIN,music.apple.com,Domestic
-DOMAIN,mvod.itunes.apple.com,Domestic
-DOMAIN,osxapps.itunes.apple.com,Domestic
-DOMAIN,supportdownload.apple.com,Domestic
-DOMAIN,swcdn.apple.com,Domestic
-DOMAIN,updates-http.cdn-apple.com,Domestic
-DOMAIN-SUFFIX,ls.apple.com,Domestic
-DOMAIN-SUFFIX,mzstatic.com,Domestic
+IP-CIDR,10.0.0.0/8,Domestic
+IP-CIDR,100.64.0.0/10,Domestic
+IP-CIDR,127.0.0.0/8,Domestic
+IP-CIDR,172.16.0.0/12,Domestic
+IP-CIDR,192.168.0.0/16,Domestic

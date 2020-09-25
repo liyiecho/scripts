@@ -1,6 +1,4 @@
 # > Apple CDN
-# - PROCESS-NAME,storedownloadd,Apple CDN
-# - USER-AGENT,com.apple.appstored*,Apple CDN
 DOMAIN,aod.itunes.apple.com,Apple CDN
 DOMAIN,api.smoot.apple.cn,Apple CDN
 DOMAIN,appldnld.apple.com,Apple CDN
