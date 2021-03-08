@@ -18,7 +18,7 @@
         "txnews_id2"
       ],
       "repo": "https://github.com/Sunert/Scripts/blob/master/Task/txnews.js",
-      "id": "txnews",
+      "id": "txnewsmore",
       "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/txnews.js",
       "settings": [
         {
@@ -38,7 +38,7 @@
           "desc": "接口延迟时间"
         }
       ],
-      "name": "腾讯新闻",
+      "name": "腾讯新闻多开",
       "icons": [
         "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/txnews.png",
         "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/txnews.png"
