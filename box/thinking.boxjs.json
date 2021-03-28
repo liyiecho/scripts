@@ -11,11 +11,13 @@
         "sy_signurl_txnews1",
         "sy_cookie_txnews1",
         "video_txnews1",
-        "txnews_id1",
+        "prize_txnews1",
+        "txnews_id",
         "sy_signurl_txnews2",
         "sy_cookie_txnews2",
         "video_txnews2",
-        "txnews_id2"
+        "prize_txnews2",
+        "txnews_id"
       ],
       "repo": "https://github.com/Sunert/Scripts/blob/master/Task/txnews.js",
       "id": "txnewsmore",
@@ -30,12 +32,11 @@
           "desc": "阅读篇数间隔通知开为1，常关为0(默认50篇)"
         },
         {
-          "id": "delay",
-          "placeholder": "默认200 (点击以展开说明)",
+          "id": "txnews_id",
+          "placeholder": "stair_redpack_chajian",
           "val": "",
-          "name": "延迟时间(毫秒)",
-          "type": "number",
-          "desc": "接口延迟时间"
+          "name": "自定义活动ID",
+          "type": "text"
         }
       ],
       "name": "腾讯新闻多开",
